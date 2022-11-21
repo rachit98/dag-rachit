@@ -1,0 +1,172 @@
+.App {
+  font-family: sans-serif;
+}
+
+.stageParent {
+  border: 1px solid black;
+  width: 800px;
+  height: 600px;
+}
+
+/* .scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  width: 1000px;
+  height: 200px;
+  text-align: left;
+} */
+
+.card {
+  display: inline-block;
+}
+
+.icbutton {
+  color: red;
+}
+
+#row1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#column1 {
+  display: flex;
+  flex-direction: column;
+  float: left;
+}
+
+#column2 {
+  display: flex;
+  flex-direction: column;
+}
+
+/* .improvStage {
+  width: 1000px;
+  height: 800px;
+  display: inline-block;
+}
+
+
+
+.HistoryBar {
+  width: 20%;
+  float: left;
+  padding: 10px;
+  border: 2px solid red;
+}
+
+.mainSpace {
+  width: 80%;
+  float: left;
+  padding: 10px;
+  border: 2px solid blue;
+}
+
+.layoutDiv {
+  border: 1px solid black;
+  width: 100px;
+  height: 800px;
+  display: inline-block;
+} */
+
+.hiddenDiv {
+  display: none;
+}
+
+.col-xs-8 {
+  display: inline-block;
+  margin: 0;
+}
+.col-xs-4 {
+  display: inline-block;
+  margin: 0;
+}
+
+.nodes {
+  fill: darkgray;
+}
+.nodes text {
+  fill: white;
+}
+
+.dagre-d3 .node {
+  fill: white;
+}
+.dagre-d3 .node rect,
+.dagre-d3 .node polygon,
+.dagre-d3 .node circle,
+.dagre-d3 .node ellipse,
+.dagre-d3 .node diamond {
+  stroke: black;
+  stroke-width: 1px;
+}
+.dagre-d3 .node .label {
+  fill: black;
+}
+.dagre-d3 .node text {
+  font: 300 14px "Helvetica Neue", Helvetica;
+}
+.dagre-d3 .edgePath path.path {
+  stroke: black;
+  fill: black;
+  stroke-width: 1.5px;
+}
+.dagre-d3 .edgeLabel text {
+  font: 300 14px "Helvetica Neue", Helvetica;
+}
+.dagre-d3 {
+  border: 1px dashed grey;
+}
+.dagre-d3 .node.clickable rect,
+.dagre-d3 .node.clickable polygon,
+.dagre-d3 .node.clickable circle,
+.dagre-d3 .node.clickable ellipse,
+.dagre-d3 .node.clickable diamond {
+  cursor: pointer;
+}
+.dagre-d3 .node.clickable text {
+  cursor: pointer;
+  user-select: none;
+}
+.dagre-d3 .node.clickable:hover rect,
+.dagre-d3 .node.clickable:hover polygon,
+.dagre-d3 .node.clickable:hover circle,
+.dagre-d3 .node.clickable:hover ellipse,
+.dagre-d3 .node.clickable:hover diamond {
+  stroke-width: 3.5px;
+}
+.dagre-d3 .node.red rect,
+.dagre-d3 .node.red polygon,
+.dagre-d3 .node.red circle,
+.dagre-d3 .node.red ellipse,
+.dagre-d3 .node.red diamond {
+  fill: red;
+}
+.dagre-d3 .node.green rect,
+.dagre-d3 .node.green polygon,
+.dagre-d3 .node.green circle,
+.dagre-d3 .node.green ellipse,
+.dagre-d3 .node.green diamond {
+  fill: green;
+}
+.dagre-d3 .edgePath.dashed {
+  stroke-dasharray: 5, 5;
+}
+tspan {
+  fill: black;
+}
+
+.nodes {
+  fill: darkgray;
+}
+.nodes text {
+  fill: white;
+}
+
+path.path {
+  stroke: black;
+  fill: black;
+  stroke-width: 1.5px;
+}

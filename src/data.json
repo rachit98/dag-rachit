@@ -1,0 +1,277 @@
+{
+  "pieceGroups": {
+    "0": {
+      "pieces": [
+        {
+          "idx": "410",
+          "fabric": "{\"idx\":0,\"isReal\":true,\"width\":null,\"height\":null,\"color\":{\"red\":238,\"green\":48,\"blue\":96}}",
+          "boundary": {
+            "0": {
+              "x": 297,
+              "y": 349
+            },
+            "1": {
+              "x": 0,
+              "y": 347
+            },
+            "2": {
+              "x": 13,
+              "y": 644
+            },
+            "3": {
+              "x": 314,
+              "y": 614
+            }
+          },
+          "imageOffsetX": 28,
+          "imageOffsetY": 22,
+          "center": [184, 510.5],
+          "width": 314,
+          "height": 297,
+          "minX": 28,
+          "minY": 369,
+          "maxX": 342,
+          "maxY": 666,
+          "color": {
+            "red": 238,
+            "green": 48,
+            "blue": 96
+          },
+          "imageWidth": 641,
+          "imageHeight": 647,
+          "imageBoundary": {
+            "0": {
+              "x": 297,
+              "y": 349
+            },
+            "1": {
+              "x": 0,
+              "y": 347
+            },
+            "2": {
+              "x": 13,
+              "y": 644
+            },
+            "3": {
+              "x": 314,
+              "y": 614
+            }
+          },
+          "groupOffsetX": 28,
+          "groupOffsetY": 22,
+          "groupWidth": 314,
+          "groupHeight": 644
+        },
+        {
+          "idx": "533",
+          "fabric": "{\"idx\":3,\"isReal\":true,\"width\":null,\"height\":null,\"color\":{\"red\":224,\"green\":196,\"blue\":159}}",
+          "boundary": {
+            "0": {
+              "x": 4,
+              "y": 0
+            },
+            "1": {
+              "x": 14,
+              "y": 307
+            },
+            "2": {
+              "x": 298,
+              "y": 326
+            },
+            "3": {
+              "x": 293,
+              "y": 11
+            }
+          },
+          "imageOffsetX": 28,
+          "imageOffsetY": 22,
+          "center": [180.25, 183],
+          "width": 294,
+          "height": 326,
+          "minX": 32,
+          "minY": 22,
+          "maxX": 326,
+          "maxY": 348,
+          "color": {
+            "red": 224,
+            "green": 196,
+            "blue": 159
+          },
+          "imageWidth": 641,
+          "imageHeight": 647,
+          "imageBoundary": {
+            "0": {
+              "x": 4,
+              "y": 0
+            },
+            "1": {
+              "x": 14,
+              "y": 307
+            },
+            "2": {
+              "x": 298,
+              "y": 326
+            },
+            "3": {
+              "x": 293,
+              "y": 11
+            }
+          },
+          "groupOffsetX": 28,
+          "groupOffsetY": 22,
+          "groupWidth": 314,
+          "groupHeight": 644
+        }
+      ],
+      "idx": 0,
+      "minX": 28,
+      "minY": 22,
+      "maxX": 342,
+      "maxY": 666,
+      "width": 314,
+      "height": 644
+    },
+    "1": {
+      "pieces": [
+        {
+          "idx": "411",
+          "fabric": "{\"idx\":1,\"isReal\":true,\"width\":null,\"height\":null,\"color\":{\"red\":216,\"green\":142,\"blue\":45}}",
+          "boundary": {
+            "0": {
+              "x": 301,
+              "y": 8
+            },
+            "1": {
+              "x": 1,
+              "y": 0
+            },
+            "2": {
+              "x": 0,
+              "y": 284
+            },
+            "3": {
+              "x": 285,
+              "y": 287
+            }
+          },
+          "imageOffsetX": 368,
+          "imageOffsetY": 363,
+          "center": [514.75, 507.75],
+          "width": 301,
+          "height": 287,
+          "minX": 368,
+          "minY": 363,
+          "maxX": 669,
+          "maxY": 650,
+          "color": {
+            "red": 216,
+            "green": 142,
+            "blue": 45
+          },
+          "imageWidth": 641,
+          "imageHeight": 647,
+          "imageBoundary": {
+            "0": {
+              "x": 301,
+              "y": 8
+            },
+            "1": {
+              "x": 1,
+              "y": 0
+            },
+            "2": {
+              "x": 0,
+              "y": 284
+            },
+            "3": {
+              "x": 285,
+              "y": 287
+            }
+          },
+          "groupOffsetX": 368,
+          "groupOffsetY": 363,
+          "groupWidth": 301,
+          "groupHeight": 287
+        }
+      ],
+      "idx": 1,
+      "minX": 368,
+      "minY": 363,
+      "maxX": 669,
+      "maxY": 650,
+      "width": 301,
+      "height": 287
+    },
+    "2": {
+      "pieces": [
+        {
+          "idx": "532",
+          "fabric": "{\"idx\":2,\"isReal\":true,\"width\":null,\"height\":null,\"color\":{\"red\":175,\"green\":179,\"blue\":180}}",
+          "boundary": {
+            "0": {
+              "x": 297,
+              "y": 0
+            },
+            "1": {
+              "x": 0,
+              "y": 24
+            },
+            "2": {
+              "x": 14,
+              "y": 305
+            },
+            "3": {
+              "x": 311,
+              "y": 303
+            }
+          },
+          "imageOffsetX": 351,
+          "imageOffsetY": 19,
+          "center": [506.5, 177],
+          "width": 311,
+          "height": 305,
+          "minX": 351,
+          "minY": 19,
+          "maxX": 662,
+          "maxY": 324,
+          "color": {
+            "red": 175,
+            "green": 179,
+            "blue": 180
+          },
+          "imageWidth": 641,
+          "imageHeight": 647,
+          "imageBoundary": {
+            "0": {
+              "x": 297,
+              "y": 0
+            },
+            "1": {
+              "x": 0,
+              "y": 24
+            },
+            "2": {
+              "x": 14,
+              "y": 305
+            },
+            "3": {
+              "x": 311,
+              "y": 303
+            }
+          },
+          "groupOffsetX": 351,
+          "groupOffsetY": 19,
+          "groupWidth": 311,
+          "groupHeight": 305
+        }
+      ],
+      "idx": 2,
+      "minX": 351,
+      "minY": 19,
+      "maxX": 662,
+      "maxY": 324,
+      "width": 311,
+      "height": 305
+    }
+  }
+}
